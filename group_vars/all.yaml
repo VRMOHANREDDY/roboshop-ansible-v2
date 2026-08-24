@@ -1,0 +1,11 @@
+ansible_user: ec2-user
+ansible_password: DevOps321
+MONGODB_HOST: mongodb.ramvootukuri.com
+REDIS_HOST: redis.ramvootukuri.com
+MYSQL_HOST: mysql.ramvootukuri.com
+RABBITMQ_HOST: rabbitmq.ramvootukuri.com
+CATALOGUE_HOST: catalogue.ramvootukuri.com
+USER_HOST: user.ramvootukuri.com
+CART_HOST: cart.ramvootukuri.com
+SHIPPING_HOST: shipping.ramvootukuri.com
+PAYMENT_HOST: payment.ramvootukuri.com
