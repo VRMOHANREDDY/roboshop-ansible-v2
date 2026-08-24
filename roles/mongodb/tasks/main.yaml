@@ -1,6 +1,6 @@
 - name: copy mongodb repo
   copy:
-    src: mongodb.repo/mongo.repo
+    src: mongodb.repo
     dest: /etc/yum.repos.d/mongo.repo
 - name: Install mongodb server
   package:
